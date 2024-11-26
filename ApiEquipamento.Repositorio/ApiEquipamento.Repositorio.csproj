@@ -12,6 +12,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\ApiEquipamento.Dominio\ApiEquipamento.Dominio.csproj" />
+      <ProjectReference Include="..\ApiEquipamento.Infra\ApiEquipamento.Infra.csproj" />
     </ItemGroup>
 
 </Project>

@@ -12,5 +12,5 @@ public abstract class Pessoa
 
     public int Id { get; set; }
     public string Nome { get; set; }
-    public static TipoPessoa TipoPessoa { get; protected set; }
+    public TipoPessoa TipoPessoa { get; protected set; }
 }
