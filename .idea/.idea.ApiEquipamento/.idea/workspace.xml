@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60f72a75-5d68-48be-a6fd-c12efa838a20" name="Changes" comment="Cria estrutura de diretórios e primeiras entidades, cria primeiras tabelas no banco de dados" />
+    <list default="true" id="60f72a75-5d68-48be-a6fd-c12efa838a20" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +18,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vinib1903"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/vinib1903/ApiEquipamento.git",
     "accountId": "c43382c1-062a-4d0e-8ee8-1f4a5ac8814f"
   }
 }]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 1
@@ -102,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732578387778</updated>
-      <workItem from="1732578390523" duration="3833000" />
+      <workItem from="1732578390523" duration="4216000" />
     </task>
     <task id="LOCAL-00001" summary="Cria estrutura de diretórios e primeiras entidades, cria primeiras tabelas no banco de dados">
       <option name="closed" value="true" />
@@ -118,6 +125,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
